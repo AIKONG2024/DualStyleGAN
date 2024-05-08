@@ -7,7 +7,7 @@
 [문서](https://docs.google.com/document/d/1n1KEwbeBekRbBLZCklwMa0bvlgvy7pfxDPHaJymYaN4/edit?usp=sharing)
 
 ## 결과
-마동석 일론머스크
+마동석 일론머스크 + cartoon
 ![madongseok_universe_transfer_0_test4_overview](https://github.com/AIKONG2024/dual_style_GAN/assets/154941894/ad5a1655-f54d-4bcf-b3b5-a15639c65941)
 
 ## 추론
