@@ -9,3 +9,6 @@
 ## 결과
 마동석 일론머스크
 ![madongseok_universe_transfer_0_test4_overview](https://github.com/AIKONG2024/dual_style_GAN/assets/154941894/ad5a1655-f54d-4bcf-b3b5-a15639c65941)
+
+## 추론
+python style_transfer.py --style_id 0 --content ./data/content/test5.jpg --align_face --style madongseok_universe --name madongseok_universe_transfer
