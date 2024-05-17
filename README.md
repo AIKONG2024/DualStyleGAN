@@ -11,7 +11,7 @@ pretained model , data
 - data안의 파일 ./data에 넣기 [다운로드](https://drive.google.com/drive/folders/1Zb2nYPsaxiohiie21JSnJ1i_sZIWYGcK?usp=sharing)
 - checkpoint안의 파일 ./checkpoint 넣기 [다운로드](https://drive.google.com/drive/folders/1Zb2nYPsaxiohiie21JSnJ1i_sZIWYGcK?usp=sharing)
   
-python style_transfer.py --style_id 0 --content ./data/content/test5.jpg --align_face --style madongseok_universe --name madongseok_universe_transfer
+python style_transfer.py --style_id 0 --content path/to/input_image.jpg --align_face --style ma --name ma_transfer
 
 ## 결과
 ![ma_0_test4_overview](https://github.com/AIKONG2024/dual_style_GAN/assets/154941894/bd6cbb15-4f48-4efe-9d7c-9f04bbca5c00)
